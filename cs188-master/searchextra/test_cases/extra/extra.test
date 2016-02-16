@@ -1,0 +1,8 @@
+class: "ExtraGrade"
+
+maxTime: "30"
+layoutName: "bigSearch"
+agentName: "ApproximateSearchAgent"
+
+# One point per threshold beaten
+thresholds: "300 295 290 285 280"
